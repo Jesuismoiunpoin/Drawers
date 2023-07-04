@@ -1,0 +1,5 @@
+name: Drawer
+main: Drawer\Main
+version: 1.0.0
+api: [4.0.0]
+author: KaxYum
